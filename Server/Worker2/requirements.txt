@@ -1,0 +1,7 @@
+python-dotenv
+requests
+schedule
+coloredlogs
+pandas
+splunk-sdk
+openpyxl
