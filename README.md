@@ -1,4 +1,4 @@
-# MB-TEST
+# MB-Threat intelligence
 
 Hệ thống thu thập, lưu trữ, hiển thị dữ liệu các thông tin malware mới nhất, có
 signature là RedlineStealer
